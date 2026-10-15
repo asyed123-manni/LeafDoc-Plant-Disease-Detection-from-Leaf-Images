@@ -1,0 +1,1 @@
+# LeafDoc-Plant-Disease-Detection-from-Leaf-Images
